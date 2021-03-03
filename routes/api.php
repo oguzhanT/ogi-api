@@ -8,4 +8,4 @@ Route::post('register', [DeviceController::class, 'register']);
 
 Route::post('purchase', [SubscriptionController::class, 'purchase']);
 
-Route::post('CheckSubscription', [SubscriptionController::class, 'CheckSubscription']);
+Route::post('checkSubscription', [SubscriptionController::class, 'checkSubscription']);
