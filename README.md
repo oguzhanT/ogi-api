@@ -1,4 +1,4 @@
-# Ogi API for mobile applications - Test Project
+# Ogi API & Callback for mobile applications - Test Project
 
 # Actions
 
